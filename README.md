@@ -4,7 +4,7 @@ Discord Auto Send Message Bot is a simple Python3 script designed to automate th
 ## Requirement
 - Computer with the following specification
 
-| Name | Second Header |
+| Name | Minimum |
 | ------------- | ------------- |
 | Operating System  | Ubuntu 22.04 LTS  |
 | CPU  | 1 Cores  |
