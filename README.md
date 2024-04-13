@@ -18,7 +18,7 @@ Discord Auto Send Message Bot is a simple Python3 script designed to automate th
 
 ## Setup
 1. **Fill Out The Config**:
-- Open the config.json file and provide your [Discord token](##How-To-Get-Discord-Token)
+- Open the config.json file and provide your [Discord token](#How-To-Get-Discord-Token)
 2. **Run the Script:**
 - Execute the command python3 main.py in your terminal.
   
