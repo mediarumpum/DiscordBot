@@ -34,7 +34,7 @@ webpackChunkdiscord_app.push([[""],{},req=>copy(Object.values(req.c).find(x => x
 - Locate the Discord URL and click on it.
 - In the Filter field, type token.
 - Click the Toggle device toolbar button.
-3.2. **Token Retrieval:**
+4.2. **Token Retrieval:**
 - Your Discord token will be displayed. You can copy and paste it using (CTRL+C, CTRL+V) or note it down for future reference.
-- ![image](https://github.com/nmluthfi/Discord-Auto-Send-Message-Bot/assets/33769324/958df214-cd89-4dd1-b356-8af2c67d3504)
+![image](https://github.com/nmluthfi/Discord-Auto-Send-Message-Bot/assets/33769324/958df214-cd89-4dd1-b356-8af2c67d3504)
 
