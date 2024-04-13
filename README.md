@@ -25,6 +25,10 @@ Discord Auto Send Message Bot is a simple Python3 script designed to automate th
 ```
 sudo apt-get install screen
 ```
+2. **Download the repo**
+```
+git clone https://github.com/nmluthfi/Discord-Auto-Send-Message-Bot && cd Discord-Auto-Send-Message-Bot
+```
 
 ## Run the Bot
 1. **Fill Out The Config**:
