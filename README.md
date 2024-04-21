@@ -36,7 +36,7 @@ git clone https://github.com/nmluthfi/Discord-Auto-Send-Message-Bot && cd Discor
 ```
   nano config.json
 ```
-- Provide your [Discord token](#How-To-Get-Discord-Token) and save the file ```Control + X```
+- Provide your [Discord token](#How-To-Get-Discord-Token), `Channel_ID`, `message` and save the file ```Control + X```
 2. **Create a Screen:**
 ```
 screen -Rd discord_auto_send_message
