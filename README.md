@@ -27,7 +27,7 @@ sudo apt-get install screen
 ```
 2. **Download the repo**
 ```
-git clone https://github.com/mediarumpum/Discord-Auto-Send-Message-Bot && cd Discord-Auto-Send-Message-Bot
+git clone https://github.com/mediarumpum/DiscordBot && cd DiscordBot
 ```
 
 ## Run the Bot
