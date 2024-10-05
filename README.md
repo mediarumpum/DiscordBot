@@ -12,10 +12,6 @@ Discord Auto Send Message Bot is a simple Python3 script designed to automate th
 | SSD  | 25 GB  |
 - Python3
 
-> It is adviced to use a VPS. We use Digital Ocean with the following specifications ```Singapore/ 1 Core/ 1 GB RAM/ 25 GB SSD```. If you need a VPS, we have a free link for a $200 DigitalOcean VPS credit. Enough to run the bot for full year. Register now with the [main link](https://m.do.co/c/497333605c2e) / [backup link](https://m.do.co/c/6bce9210eb7) to get it.
-
-<a href="https://www.digitalocean.com/?refcode=497333605c2e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-
 ## Features
 - Ease of Use: Set it up easily by filling out the configuration in the config.json file.
 - Automation: The script continuously sends messages based on the specified time interval.
