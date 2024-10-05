@@ -2,8 +2,8 @@
     "Config": [
         {
             "token": "put your account token here",
-            "channelid": "put_the_channel_id_here",
-            "message": "put the message here"
+            "channelid": "1267324752188411948",
+            "message": "!work"
          }
     ]
 }
