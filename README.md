@@ -39,7 +39,7 @@ git clone https://github.com/mediarumpum/DiscordBot && cd DiscordBot
 - Provide your [Discord token](#How-To-Get-Discord-Token), `Channel_ID`, `message` and save the file ```Control + X```
 2. **Create a Screen:**
 ```
-screen -Rd discord_auto_send_message
+screen -Rd DiscordBot
 ```
 3. **Run the Script:**
 - Execute the command python3 main.py in your terminal.
