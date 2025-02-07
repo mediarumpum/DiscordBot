@@ -40,4 +40,4 @@ def main():
 if __name__ == '__main__': 
     while True:    
         main()      
-        time.sleep(3605)  # 1 hour delay
+        time.sleep(10805)  # 3 hour delay
